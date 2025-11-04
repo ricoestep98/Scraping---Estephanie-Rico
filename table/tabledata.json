@@ -1,0 +1,8 @@
+[
+{"idnum": ["1"], "firstname": ["Mark"], "lastname": ["Otto"], "username": ["@mdo"]},
+{"idnum": ["2"], "firstname": ["Jacob"], "lastname": ["Thornton"], "username": ["@fat"]},
+{"idnum": ["3"], "firstname": ["Larry"], "lastname": ["the Bird"], "username": ["@twitter"]},
+{"idnum": ["4"], "firstname": ["Harry"], "lastname": ["Potter"], "username": ["@hp"]},
+{"idnum": ["5"], "firstname": ["John"], "lastname": ["Snow"], "username": ["@dunno"]},
+{"idnum": ["6"], "firstname": ["Tim"], "lastname": ["Bean"], "username": ["@timbean"]}
+]
